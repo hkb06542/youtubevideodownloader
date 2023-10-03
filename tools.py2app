@@ -1,0 +1,5 @@
+[tools.py2app.bundle.main]
+
+script = "main.py"
+semi-standalone = true
+name="YoutubeVideoDownloader"
